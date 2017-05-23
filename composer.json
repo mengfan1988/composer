@@ -1,0 +1,14 @@
+{
+    "name": "mengfan1988/composer",
+    "description": "composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "mengfan",
+            "email": "340562435@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
